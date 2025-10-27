@@ -1,2 +1,2 @@
-# js-hindi-youtub
+# Javascript 
 code javascript
